@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: Lab8_ps03948
+  host: Lab8ps03948
+  disk_quota: 1024M
